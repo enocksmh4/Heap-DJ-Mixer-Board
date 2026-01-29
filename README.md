@@ -1,4 +1,4 @@
-#Heap DJ Mixer Board
+📱#Heap DJ Mixer Board
 Gesture-controlled DJ mixer built with Python, OpenCV, MediaPipe, and Pygame.
 
 ## Overview
